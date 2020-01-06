@@ -1,0 +1,26 @@
+<annotation>
+	<folder>result</folder>
+	<filename>263_resized.jpg</filename>
+	<path>/home/dst/Desktop/detection/fire-dataset/train/result/263_resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>1</ymin>
+			<xmax>149</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

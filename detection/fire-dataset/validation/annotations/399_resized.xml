@@ -1,0 +1,26 @@
+<annotation>
+	<folder>result</folder>
+	<filename>399_resized.jpg</filename>
+	<path>/home/arun/Desktop/detection/fire-dataset/train/result/399_resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>117</ymin>
+			<xmax>134</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>
